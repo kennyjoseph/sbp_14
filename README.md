@@ -18,7 +18,8 @@ gson-2.2.3
 commons-lang3-3.1
  
 Once you put everything together and spit out a runnable jar (i.e. from eclipse), you can run with
-java -jar  CONFIG_FILE DATA_DIR TIME_TO_RUN
+
+java -jar  CONFIG\_FILE DATA\_DIR TIME\_TO\_RUN
 
 CONFIG_FILE specifies the set of users you are going to use to connect to the Streaming API.  The file has the form:
 ```
