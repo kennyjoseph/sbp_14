@@ -2,9 +2,15 @@ sbp_14
 =======
 
 This repository holds the code used in the following article:
-
-Joseph, K., Landwehr, P.M. and Carley, K.M. no date. 
-Two 1%s don't make a whole: Comparing simultaneous samples from Twitter's Streaming API. SBP '14
+```
+@inproceedings{joseph_2014,
+	address = {Washington, {DC}, {USA}},
+	title = {Two 1\%s don't make a whole: Comparing simultaneous samples from Twitter's Streaming API},
+	booktitle = {Proceedings of the 2014 International Conference on Social  Compution, Behavioral-Cultural Modeling, \& Prediction},
+	author = {Joseph, Kenneth and Landwehr, Peter L. and Carley, Kathleen M.},
+	year = {2014}
+}
+```
 
 Running the experiment
 ----------
